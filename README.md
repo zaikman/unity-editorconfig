@@ -12,5 +12,5 @@ To circumvent this, we can utilize the Visual Studio Tools extension that's auto
 * Download the *EditorConfigSolutionFileGenerator.cs* script and drop it in an Editor folder within your project.
 * Download the (or provide your own) *.editorconfig* file and place it in the root folder of your Unity project (i.e. at the same folder level as Assets/).
 * Forcibly regenerate your .sln file by deleting it from the project root and then choosing Assets -> Open C# Project in the Unity editor.
-* Tweak *.editorconfig* to your liking, using the rules defined below.
+* Tweak *.editorconfig* to your liking, as described here:
 https://docs.microsoft.com/en-us/visualstudio/ide/create-portable-custom-editor-options?view=vs-2017
